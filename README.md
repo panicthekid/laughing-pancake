@@ -1,4 +1,4 @@
-# laughing-pancake
+# Ceasar cipher
 Pyhton code for Caesar cipher with and withoout key.
 
 File cesar.py is for cipher the plain text, for deschipher knowing the key just change this line:
